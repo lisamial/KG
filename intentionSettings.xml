@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Java/Modifiers/Change access modifier" />
+    <ignoreAction name="Java/Declaration/Create Test" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
+  </component>
+</application>

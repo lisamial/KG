@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="javax.swing.JScrollBar.JScrollBar(orientation)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
