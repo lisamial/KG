@@ -1,0 +1,6 @@
+C:\Users\днс.LAPTOP-B496P6AF\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Task.dll
+C:\Users\днс.LAPTOP-B496P6AF\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Task.pdb
+C:\Users\днс.LAPTOP-B496P6AF\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\днс.LAPTOP-B496P6AF\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\днс.LAPTOP-B496P6AF\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\Task.dll
+C:\Users\днс.LAPTOP-B496P6AF\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\Task.pdb
